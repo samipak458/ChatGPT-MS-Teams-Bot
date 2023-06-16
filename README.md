@@ -8,5 +8,5 @@ With the ChatGPT Teams Bot app, users can benefit from the wide array of feature
 Ultimately, this app aims to solve the problem of efficient and effective communication and collaboration within teams. It empowers users by providing an intelligent and adaptable virtual assistant that can enhance their productivity and streamline their work processes, all within the familiar environment of Microsoft Teams.
 
 **Note:** *This is a ChatGPT MS Teams Bot app which uses latest `gpt-3.5-turbo` model optimized for chat.*
-![02](https://github.com/samipak458/ChatGPT-MS-Teams-Bot/assets/52650290/ce401666-2255-40a5-ae48-ac718e8858d5)
+
 
