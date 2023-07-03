@@ -10,3 +10,5 @@ Ultimately, this app aims to solve the problem of efficient and effective commun
 **Note:** *This is a ChatGPT MS Teams Bot app which uses `gpt-3.5-turbo` model optimized for chat.*
 
 
+## Demo of MS Teams Bot 
+https://github.com/microsoft/hack-together-teams/assets/52650290/7137f9b4-0362-4d72-b043-9205833dde0c
